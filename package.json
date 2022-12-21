@@ -1,0 +1,25 @@
+{
+  "name": "portals",
+  "version": "0.0.2",
+  "author": "Sergey Shkatula",
+  "description": "",
+  "main": "./lib/index.js",
+  "type": "module",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "dev": "npx tsc --watch",
+    "lint": "npx eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "supply-demand": "file:../supply-demand",
+    "microenv": "file:../microenv"
+  }
+}
