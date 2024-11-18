@@ -41,5 +41,5 @@ Any violation of this License will lead to the automatic termination of this Lic
 ### Summary of Rights
 
 - You can: Use this Software freely in your projects.
-- You cannot: Modify, fork, redistribute, or create derivatives of the Software.
+- You cannot: Modify, fork, or create derivatives of the Software.
 - You must: Credit the original authors.
