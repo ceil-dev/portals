@@ -35,7 +35,7 @@ npm install @ceil-dev/portals
 ### Usage
 
 ```javascript
-import { portals } from '@ceil-dev/portals';
+import { createPortal } from '@ceil-dev/portals';
 ```
 
 ---
